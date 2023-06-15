@@ -1,0 +1,5 @@
+fastapi
+tensorflow
+requests
+uvicorn
+python-multipart
