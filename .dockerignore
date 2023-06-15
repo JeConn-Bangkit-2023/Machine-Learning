@@ -1,0 +1,6 @@
+# Ignore build artifacts
+/nsfw_model/saved_model/
+
+# Ignore temporary files
+.DS_Store
+tmp/
